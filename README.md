@@ -28,8 +28,6 @@ omarchy theme install https://github.com/jsquared43/omarchy-oligarchy-theme
 | Muted | `#5c6b4f` |
 
 Full ANSI palette in [`colors.toml`](colors.toml). Icons are `Yaru-olive`.
-Active windows get a gilded gold border with a soft glow — see
-[`hyprland.lua`](hyprland.lua).
 
 ## Backgrounds
 
